@@ -1,4 +1,4 @@
-# inmap_demo
+# inmap-vue-iview
 # 执行
   1.npm run install
 
